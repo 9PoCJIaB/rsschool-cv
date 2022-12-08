@@ -18,9 +18,9 @@ I will master the acquired skills in order to use them in my work.
 A lot of work experience, but unfortunately not in IT
 
 ## **Education**
-**Polotsk State University, Polotsk, Belarus(2011-2015)**
-Faculty of Information Technology 
-systems engineer(incomplete higher education, 4 of 6 courses)
+* **Polotsk State University, Polotsk, Belarus(2011-2015)** 
+* Faculty of Information Technology  
+* systems engineer(incomplete higher education, 4 of 6 courses)
 
 ## **Languages**
 * Russian - native,

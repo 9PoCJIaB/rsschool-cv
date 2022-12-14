@@ -17,3 +17,28 @@
     max-width: 1440px;
     margin: 0 auto;
   }
+
+  html {
+  scroll-behavior: smooth; 
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list {
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+
+.nav-link{
+color: #7300bb;
+text-decoration: none !important;
+border: none !important;
+}
+

@@ -1,5 +1,5 @@
 @font-face {
- font-family: Roboto;
+ font-family: Montserrat;
   src: url("Montserrat-Italic.ttf");
 }
 
@@ -11,6 +11,8 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  font-family: 'Montserrat';
+  text-align: center
 }
 
   .container {
@@ -25,20 +27,19 @@
 .nav-list {
   display: flex;
   align-items: center;
-}
-
-.nav-list {
   list-style: none;
 }
+
+
 
 .nav-link {
   padding: 0 20px;
   line-height: 50px;
+  color: #7300bb;
+  text-decoration: none !important;
+  border: none !important;
 }
 
-.nav-link{
-color: #7300bb;
-text-decoration: none !important;
-border: none !important;
-}
-
+img {
+  border-radius: 200px; 
+ }

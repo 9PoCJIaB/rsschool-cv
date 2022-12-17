@@ -1,15 +1,57 @@
-.header {
-	top:20px;
+@font-face {
+ font-family: Montserrat;
+  src: url("Montserrat-Italic.ttf");
 }
 
-.main {
-	padding-top:100px;
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: 'Montserrat';
+  text-align: center;
 }
 
-.posLeft {
-	margin-left:-66%;
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  html {
+  scroll-behavior: smooth; 
 }
 
-.posCenter {
-	margin-left:33%;
+.nav-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  flex-wrap: wrap
 }
+
+.list-contacts{
+ 
+  list-style: none;
+
+}
+
+.link-contacts{
+  
+  line-height: 30px;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none !important;
+  border: none !important;
+  
+}
+
+img {
+  border-radius: 200px; 
+ }
+
+
